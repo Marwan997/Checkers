@@ -1,3 +1,0 @@
-﻿  Checkers.cpp
-C:\Users\The Ultimate\Desktop\C++\Checkers\checkers.h(236,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Checkers.vcxproj -> C:\Users\The Ultimate\Desktop\C++\Checkers\x64\Debug\Checkers.exe
